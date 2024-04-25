@@ -1,17 +1,17 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 值得拥有
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: B站
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
+      url: bilibili.com
+      description: 视频随你观看
+    - title: 百度
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
+      description: 搜索引擎
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
