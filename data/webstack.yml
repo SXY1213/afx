@@ -5,7 +5,7 @@
   links: 
     - title: B站
       logo: 
-      url: bilibili.com
+      url:bilibili.com
       description: 视频随你观看
     - title: 百度
       qrcode: images/qrcodes/bk.png
